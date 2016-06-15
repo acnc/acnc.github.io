@@ -1,6 +1,7 @@
 body {
     font-family: 'Lato', sans-serif;
     font-size: 18px;
+    font-weight: 300;
 }
 
 b {
@@ -8,7 +9,7 @@ b {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Cardo', serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 400;
     line-height: 1.3;
 }

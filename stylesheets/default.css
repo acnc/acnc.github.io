@@ -40,6 +40,11 @@ img {
     border: 0;
 }
 
+img.portrait {
+    float: left;
+    margin: 1em 1em 1em 0;
+}
+
 /*
  * Button related styling from here on out.
  */

@@ -40,9 +40,9 @@ img {
     border: 0;
 }
 
-img.portrait {
-    float: left;
-    margin: 1em 1em 1em 0;
+td.portrait {
+    vertical-align: top;
+    padding: 1.5em 1em 0 0;
 }
 
 /*
